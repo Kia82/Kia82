@@ -1,6 +1,11 @@
-### Hi there 👋 My name is Kia
+### Hi there! I'm Kia, a third-year Computer Science student at the Unversity of British Columbia. Embarking on an adventurous journey through the realms of technology, I'm on a quest to create, innovate, and learn something new every day.
 
-This is a test branch
+💻 As a coding adventurer, I boldly navigate the landscapes of software development, fearlessly exploring the intersection of theory and practice. My passion lies in crafting elegant code and unraveling the mysteries of complex algorithms. The thrill of solving coding challenges ignites the adventurous spirit within me.
+
+🚀 Beyond the academic horizon, I'm a staunch advocate for open-source contributions. While my journey hasn't led me to contribute to projects yet, I'm eagerly gearing up for the exciting challenges that lie ahead. Join me on this quest, and let's make a mark on the open-source landscape together.
+
+🌱 When I'm not on coding expeditions, I'm diving into the latest tech trends, attending hackathons, and fearlessly experimenting with new programming languages. The vast landscape of technology offers endless possibilities, and I'm excited to connect with fellow adventurers who share a passion for innovation.
+
 <!--
 **Kia82/Kia82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
